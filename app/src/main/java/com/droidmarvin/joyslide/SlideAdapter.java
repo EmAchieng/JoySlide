@@ -31,20 +31,21 @@ public String []lst_titles = {
             "REBEL",
             "RELIGIOUS",
             "GORGEOUS",
-            "ANNOYING"
+            "CONSERVATIVE"
 
             };
 //list of descriptions
 
     public String []lst_descriptions = {
 
-            "A natural Rebel, like me. Got a rebelheart, like Godzilla",
+            "She's got a rebelheart, like Godzilla. A natural Rebel. ",
             "Deeply religious.And in terms of " +
                     "seduction, it can make even the most able of seducers confused and frustrated." +
                     "She may take me to Heaven though "
             ,
-            "Pum pum Skraaaa. Skididi Jigi jgig",
-            "Somewhat of a late-in-life child. Background hides a lot"
+            "Pum pum Skraaaa. Skididi Jigi jigi yeyeee",
+            "She favores her traditional views and values; always inclined to oppose change, always cautious." +
+                    "Somewhat of a late-in-life child. Background hides a lot"
 
     };
 
