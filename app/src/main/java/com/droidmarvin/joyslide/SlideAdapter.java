@@ -38,10 +38,13 @@ public String []lst_titles = {
 
     public String []lst_descriptions = {
 
-            "Description 1",
-            "Description  2",
-            "Description 3",
-            "Description 4"
+            "A natural Rebel, like me. Got a rebelheart, like Godzilla",
+            "Deeply religious.And in terms of " +
+                    "seduction, it can make even the most able of seducers confused and frustrated." +
+                    "She may take me to Heaven though "
+            ,
+            "Pum pum Skraaaa. Skididi Jigi jgig",
+            "Somewhat of a late-in-life child. Background hides a lot"
 
     };
 
